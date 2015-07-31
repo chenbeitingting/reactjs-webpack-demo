@@ -1,0 +1,67 @@
+{
+  "mappings": [
+    {
+      "shareId": "1",
+      "couponNo": "0008888",
+      "giftName": "120元滴滴专车代金券",
+      "wishName": "出任CEO",
+      "position": "1"
+    },
+    {
+      "shareId": "2",
+      "couponNo": "0008888",
+      "giftName": "招商银行信用卡积分 2015积分",
+      "wishName": "荷包鼓鼓的",
+      "position": "2"
+    },
+    {
+      "shareId": "3",
+      "couponNo": "0008888",
+      "giftName": "小米手环1元购买券",
+      "wishName": "身体倍儿棒",
+      "position": "3"
+    },
+    {
+      "shareId": "4",
+      "couponNo": "0008888",
+      "giftName": "欧莱雅小美盒1元购买券",
+      "wishName": "找个都教授",
+      "position": "4"
+    },
+    {
+      "shareId": "5",
+      "couponNo": "0008888",
+      "giftName": "2张电影票",
+      "wishName": "约女神",
+      "position": "5"
+    },
+    {
+      "shareId": "6",
+      "couponNo": "0008888",
+      "giftName": "100元出行易代金券",
+      "wishName": "说走就走的旅行",
+      "position": "6"
+    },
+    {
+      "shareId": "7",
+      "couponNo": "0008888",
+      "giftName": "100元小肥羊餐饮券",
+      "wishName": "尝尽天下美食",
+      "position": "7"
+    },
+    {
+      "shareId": "8",
+      "couponNo": "0008888",
+      "giftName": "博朗电动牙刷1元购买券",
+      "wishName": "笑口常开",
+      "position": "8"
+    },
+    {
+      "shareId": "9",
+      "couponNo": "0008888",
+      "giftName": "50元充值缴费券",
+      "wishName": "一夜暴富",
+      "position": "9"
+    }
+  ]
+}
